@@ -19,9 +19,7 @@ At the end, you will be given a score out of 5.
 You will need access to a computer with Python installed. 
 
 ## How to play
-- Run the game in the terminal by click this button.
-  ![image](https://github.com/user-attachments/assets/42d3235d-644a-4744-8670-75939fc77df5)
-
+- Run the game in the terminal by clicking this button.
 - Answer the math question.
 - Input the answer in the answer box and press Enter.
 - You will be advised if it's correct or incorrect straight away.
