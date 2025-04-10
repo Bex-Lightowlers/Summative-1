@@ -30,7 +30,7 @@ To install Python follow the following links -
 - Answer all 5 questions.
 - At the end, you will receive an overall score.
 
-# Techincal Documentation
+# Technical Documentation
 
 ## Summative 1 
 This script runs maths equations. It includes the following:
@@ -41,9 +41,9 @@ This script runs maths equations. It includes the following:
   ```
 - It generates random numbers using `ramdom.randit(1, 10)` for a & x which equates to b. 
 - Prompts the user to input their answer using `input()`
-- Advises users if they are correct or incorrect
 - Generates 5 questions using `i in range(5)`
-
+- Provides immediate feedback if correct or incorrect
+- At the end, displaced overall score.
 
 To clone the repository 
 ```
