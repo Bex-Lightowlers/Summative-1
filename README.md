@@ -42,7 +42,7 @@ This script runs maths equations. It includes the following:
 - It generates random numbers using `ramdom.randit(1, 10)` for a & x which equates to b. 
 - Prompts the user to input their answer using `input()`
 - Generates 5 questions using `i in range(5)`
-- Provides immediate feedback if correct or incorrect
+- Provides immediate feedback if correct or incorrect by using `if-else` statement
 - At the end, displaced overall score.
 
 To clone the repository 
