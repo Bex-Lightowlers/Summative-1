@@ -19,8 +19,8 @@ At the end, you will be given a score out of 5.
 You will need access to a computer with Python installed. 
 
 To install Python follow the following links - 
-- Windows: Download from python.org
-- macOS: Download from python.org
+   - Windows: Download from [python.org](https://www.python.org/downloads/windows/)
+   - macOS: Download from [python.org](https://www.python.org/downloads/mac-osx/)
 
 ## How to play
 - Run the game in the terminal by clicking this button.
