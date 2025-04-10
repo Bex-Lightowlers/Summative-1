@@ -18,6 +18,10 @@ At the end, you will be given a score out of 5.
 ## What you will need
 You will need access to a computer with Python installed. 
 
+To install Python follow the following links - 
+- Windows: Download from python.org
+- macOS: Download from python.org
+
 ## How to play
 - Run the game in the terminal by clicking this button.
 - Answer the math question.
