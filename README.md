@@ -39,6 +39,19 @@ This script runs maths equations. It includes the following:
   ```
   a * x = b
   ```
+  The functions used are as below:
+  ```
+  def equation_gen():
+
+    '''
+    This code will ask the user 5 maths questions and 
+    at the end will give a score out of 5.
+    '''
+    unknown_x = random.randint(1, 10) # Code for x
+    coef_a = random.randint(1, 10) # Code for equation
+    result = coef_a * unknown_x # Answer
+    return f"{coef_a} * x = {result}", unknown_x
+  ```
 - It generates random numbers using `ramdom.randit(1, 10)` for a & x which equates to b. 
 - Prompts the user to input their answer using `input()`
 - Generates 5 questions using `i in range(5)`
