@@ -23,7 +23,7 @@ To install Python follow the following links -
    - macOS: Download from [python.org](https://www.python.org/downloads/mac-osx/)
 
 ## How to play
-- Run the game in the terminal by clicking this button.
+- Run the game in the terminal by clicking this button. ![image of vscode]("Run_button 2025-04-10 135109.png")
 - Answer the math question.
 - Input the answer in the answer box and press Enter.
 - You will be advised if it's correct or incorrect straight away.
