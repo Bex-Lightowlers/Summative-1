@@ -23,15 +23,30 @@ To install Python follow the following links -
    - macOS: Download from [python.org](https://www.python.org/downloads/mac-osx/)
 
 ## How to play
-- Run the game in the terminal by clicking this button. ![Run button](https://github.com/Bex-Lightowlers/Summative-1/blob/main/Run_button%202025-04-10%20135109.png)
-- Answer the math question.
-- Input the answer in the answer box and press Enter.
+- Run the game in the terminal by clicking this button in the top right corner. ![Run button](https://github.com/Bex-Lightowlers/Summative-1/blob/main/Run_button%202025-04-10%20135109.png)
+- The questions will appear in the bottom terminal. Now start answering the math question.
+- Input the answer in the answer box and press "Enter".
 - You will be advised if it's correct or incorrect straight away.
 - Answer all 5 questions.
 - At the end, you will receive an overall score.
 
 # Techincal Documentation
+
+## Summative 1 
+This script runs maths equations. It includes the following:
+
+- Using function `equation_gen()` to generate the equation:
+  ```
+  a * x = b
+  ```
+- It generates random numbers using `ramdom.randit(1, 10)` for a & x which equates to b. 
+- Prompts the user to input their answer using `input()`
+- Advises users if they are correct or incorrect
+- Generates 5 questions using `i in range(5)`
+
+
 To clone the repository 
 ```
 https://github.com/Bex-Lightowlers/Summative-1.git
 ```
+
