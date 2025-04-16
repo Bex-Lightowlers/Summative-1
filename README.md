@@ -18,7 +18,7 @@ At the end, you will be given a score out of 5.
 ## What you will need
 You will need access to a computer with Python installed. 
 
-To install Python follow the following links - 
+To install Python, follow the following links - 
    - Windows: Download from [python.org](https://www.python.org/downloads/windows/)
    - macOS: Download from [python.org](https://www.python.org/downloads/mac-osx/)
 
@@ -52,7 +52,7 @@ This script runs maths equations. It includes the following:
     result = coef_a * unknown_x # Answer
     return f"{coef_a} * x = {result}", unknown_x
   ```
-- It generates random numbers using `ramdom.randit(1, 10)` for a & x which equates to b. 
+- It generates random numbers using `random.randit(1, 10)` for a & x which equates to b. 
 - Prompts the user to input their answer using `input()`
 - Generates 5 questions using `i in range(5)`
 - Provides immediate feedback if correct or incorrect by using `if-else` statement
